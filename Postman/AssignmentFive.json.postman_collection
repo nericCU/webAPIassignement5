@@ -1,9 +1,9 @@
 {
-	"id": "378560fa-16b2-872a-964a-f4fb0f3276e2",
+	"id": "271aed72-3dbd-7689-75da-60482f5c9c05",
 	"name": "AssignmentFive",
 	"description": "",
 	"order": [
-		"e54ae280-9214-7ae8-67e0-04103b7444f6"
+		"752dd242-8498-c328-efaa-acbce2b7a427"
 	],
 	"folders": [],
 	"timestamp": 1429655881620,
@@ -16,9 +16,9 @@
 	"write": true,
 	"requests": [
 		{
-			"id": "e54ae280-9214-7ae8-67e0-04103b7444f6",
+			"id": "752dd242-8498-c328-efaa-acbce2b7a427",
 			"headers": "",
-			"url": "https://api.usergrid.com/amosgurung/sandbox/movies",
+			"url": "https://api.usergrid.com/neric/sandbox/movies",
 			"preRequestScript": "",
 			"pathVariables": {},
 			"method": "GET",
@@ -28,10 +28,10 @@
 			"tests": "",
 			"currentHelper": "normal",
 			"helperAttributes": {},
-			"time": 1430027929219,
-			"name": "Get all movies in collection",
+			"time": 1430049800235,
+			"name": "request to BaaS which returns a movie (does not go through proxy)",
 			"description": "",
-			"collectionId": "378560fa-16b2-872a-964a-f4fb0f3276e2",
+			"collectionId": "271aed72-3dbd-7689-75da-60482f5c9c05",
 			"responses": [],
 			"synced": false
 		}
