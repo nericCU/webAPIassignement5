@@ -1,0 +1,39 @@
+{
+	"id": "378560fa-16b2-872a-964a-f4fb0f3276e2",
+	"name": "AssignmentFive",
+	"description": "",
+	"order": [
+		"e54ae280-9214-7ae8-67e0-04103b7444f6"
+	],
+	"folders": [],
+	"timestamp": 1429655881620,
+	"synced": false,
+	"owner": 0,
+	"sharedWithTeam": false,
+	"subscribed": false,
+	"remoteLink": "",
+	"public": false,
+	"write": true,
+	"requests": [
+		{
+			"id": "e54ae280-9214-7ae8-67e0-04103b7444f6",
+			"headers": "",
+			"url": "https://api.usergrid.com/amosgurung/sandbox/movies",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "GET",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1430027929219,
+			"name": "Get all movies in collection",
+			"description": "",
+			"collectionId": "378560fa-16b2-872a-964a-f4fb0f3276e2",
+			"responses": [],
+			"synced": false
+		}
+	]
+}
